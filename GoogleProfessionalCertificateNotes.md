@@ -12,3 +12,8 @@
 5 Share
 
 6 Act
+
+
+# Database definition:
+
+A collection of data stored in a computer system
