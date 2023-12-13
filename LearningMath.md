@@ -1,5 +1,5 @@
 <h4 align="center">
-  🕖 PROJETO EM CONSTRUÇÃO ... 🕖
+  🕖 PROJECT UNDER CONSTRUCTION ... 🕖
 </h4>
 
 # Below are YouTube playlists to improve knowledge of mathematics topics (I haven't studied them all yet, but I'm in the process 😁)
