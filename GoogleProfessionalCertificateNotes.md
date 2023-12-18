@@ -36,3 +36,13 @@ A database that contains a series of related tables that can be connected via th
 
 Data e hora = metadado administrativo
 
+
+Os Conjuntos de dados públicos do Google Cloud permitem aos analistas de dados o acesso a conjuntos de dados públicos de alta demanda, e facilitam a descoberta de insights na nuvem. 
+
+A Pesquisa de conjunto de dados pode ajudá-lo a encontrar conjuntos de dados disponíveis on-line com pesquisas de palavras-chave. 
+
+A Kaggle tem uma função de busca de dados abertos que pode ajudá-lo a encontrar conjuntos de dados para praticar.
+
+Finalmente, a BigQuery hospeda mais de 150 conjuntos de dados públicos que você pode acessar e utilizar. 
+
+
