@@ -46,3 +46,16 @@ A Kaggle tem uma função de busca de dados abertos que pode ajudá-lo a encontr
 Finalmente, a BigQuery hospeda mais de 150 conjuntos de dados públicos que você pode acessar e utilizar. 
 
 
+# Structured query language (SQL)
+
+A language to comunicate to databases
+
+SELECT é a seção de uma consulta que indica quais dados você quer que o SQL retorne a você
+
+FROM é a seção de uma consulta que indica de qual tabela provêm os dados desejados.
+
+WHERE está a seção de uma consulta que indica qualquer filtro que você gostaria de aplicar ao seu conjunto de dados
+
+
+
+
