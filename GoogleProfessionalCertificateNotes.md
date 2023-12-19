@@ -57,5 +57,15 @@ FROM é a seção de uma consulta que indica de qual tabela provêm os dados des
 WHERE está a seção de uma consulta que indica qualquer filtro que você gostaria de aplicar ao seu conjunto de dados
 
 
+# Data security
+
+Protecting data from unauthorized access or corruption by adopting safety measures 
+
+## Criptografia
+A criptografia usa um algoritmo único para alterar dados e torná-los inutilizáveis por usuários e aplicativos que desconheçam o algoritmo, que é salvo como uma “chave” que pode ser usada para revogar a criptografia. Dessa forma, se você tem a chave, você ainda pode usar os dados em seu formato original.  
+
+## Tokenização
+A tokenização, por sua vez, substitui os elementos dos dados que você quer proteger com dados gerados de forma aleatória, conhecidos como “token”. Os dados originais são armazenados em um local separado e atribuídos aos tokens. Para ter acesso aos dados originais completos, o usuário ou o aplicativo precisa ter permissão para usar o dado tokenizado e o mapeamento do token, ou seja, mesmo que o dado tokenizado seja hackeado, o dado original continua seguro em um local separado. 
+
 
 
