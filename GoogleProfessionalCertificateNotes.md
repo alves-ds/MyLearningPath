@@ -68,4 +68,7 @@ A criptografia usa um algoritmo único para alterar dados e torná-los inutiliz�
 A tokenização, por sua vez, substitui os elementos dos dados que você quer proteger com dados gerados de forma aleatória, conhecidos como “token”. Os dados originais são armazenados em um local separado e atribuídos aos tokens. Para ter acesso aos dados originais completos, o usuário ou o aplicativo precisa ter permissão para usar o dado tokenizado e o mapeamento do token, ou seja, mesmo que o dado tokenizado seja hackeado, o dado original continua seguro em um local separado. 
 
 
+# Flowchart to cope with incomplete or data with errors
+
+![Flowchart to cope with incomplete data](img_lidar_erros_dados.png)
 
