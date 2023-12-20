@@ -72,3 +72,12 @@ A tokenização, por sua vez, substitui os elementos dos dados que você quer pr
 
 ![Flowchart to cope with incomplete data](img_lidar_erros_dados.png)
 
+# Spreadsheet for sample size estimate based on confidence interval
+https://docs.google.com/spreadsheets/d/1WrHqkxWo3JnFsbnlF-IY5ZLm6-nQKFGBQuAEraLKg9o/edit?resourcekey=0-VCs_I4_LM2Kkqf5WNU2H3A#gid=0
+
+
+# Spreadsheet for margin of error estimate
+https://docs.google.com/spreadsheets/d/1y3QQhgsSvQFm2QSs15CHER0K7w9zQb25G5twD-G-OKE/edit#gid=77526548
+
+
+
