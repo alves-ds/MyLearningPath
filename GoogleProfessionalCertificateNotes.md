@@ -79,5 +79,20 @@ https://docs.google.com/spreadsheets/d/1WrHqkxWo3JnFsbnlF-IY5ZLm6-nQKFGBQuAEraLK
 # Spreadsheet for margin of error estimate
 https://docs.google.com/spreadsheets/d/1y3QQhgsSvQFm2QSs15CHER0K7w9zQb25G5twD-G-OKE/edit#gid=77526548
 
+# Dirty data
+Data that is incomplete, incorret, or irrelevant to the problem you're trying to solve
+
+# Data engineers
+Transform data into a useful format for analysis and give it a reliable infrastructure
+
+# Data warehousing specialists
+Develop processes and procedures to effectively store and organize data
+
+# Types of dirty data
+- Duplicates
+- Outdated
+- Incomplete
+- Incorrect
+- Inconsistent 
 
 
