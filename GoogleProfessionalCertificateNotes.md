@@ -95,4 +95,37 @@ Develop processes and procedures to effectively store and organize data
 - Incorrect
 - Inconsistent 
 
+# Merger
+An agreement that unites two organizations into a single new one
+
+
+# Data merging
+The process of combining two or more datasets into a single dataset
+
+# Compatibility
+How well two or more datasets are able to work together
+
+# Tips to format and clean data:
+[Guide to excel]([https://www.example.com](https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
+[Guide to Google workspace](https://support.google.com/a/users/answer/9604139?hl=en#zippy=)
+
+
+# Conditional formatting
+A spreadsheet tool that changes how cells appear when values meet specific conditions
+
+# Remove duplicates
+A tool that automatically searches for and eliminates duplicate entries from a spreadsheet
+
+# Function
+A set of instructions that performs a specific calculation using the data in a spreadsheet
+
+# Specific functions in Excel
+## COUNTIF
+Return the number of cells that match a specified value
+
+
+
+
+
+
 
