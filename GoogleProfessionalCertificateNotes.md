@@ -123,8 +123,20 @@ A set of instructions that performs a specific calculation using the data in a s
 ## COUNTIF
 Return the number of cells that match a specified value
 
+## TRIM
+A function that removes leading, trailing, and repeated spaces in data
+
+## VLOOKUP
+A function that searches for a certain value in a column to return a corresponding piece of information
+
+# Links with tips about automatization in data cleaning processes 
+[Towards Data Science’s automatização da análise de dados científicos](https://towardsdatascience.com/automating-scientific-data-analysis-part-1-c9979cd0817e)
+[MIT news automatizando a análise de big-data](https://news.mit.edu/2016/automating-big-data-analysis-1021)
+[TechnologyAdvice's 10 das melhores opções para software de automação do fluxo de trabalho](https://technologyadvice.com/blog/information-technology/top-10-workflow-automation-software/)
 
 
+# Pivot table
+A data summarization tool that is used in data processing
 
 
 
