@@ -154,4 +154,7 @@ The process of matching fields from one data source to another
 | Built-in functionalities | Used across multiple programs | 
 
 
+# Typecasting
+Converting data of a type to another
+
 
