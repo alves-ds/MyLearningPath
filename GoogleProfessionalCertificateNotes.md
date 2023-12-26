@@ -158,3 +158,12 @@ The process of matching fields from one data source to another
 Converting data of a type to another
 
 
+Obter dados de uma tabela usando instruções SELECT.
+
+Deduplicar dados usando comandos como DISTINCTe COUNT + WHERE.
+
+Manipular dados de string com TRIM(), SUBSTR, e LENGTH.
+
+Criar/eliminar tabelas com CREATE TABLE e DROP TABLE.
+
+Alterar os tipos de dados com CAST.
