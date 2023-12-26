@@ -142,5 +142,16 @@ A data summarization tool that is used in data processing
 # Data mapping
 The process of matching fields from one data source to another
 
+# Differences between Spreadsheets and SQL
+
+| Spreadsheets | SQL |
+| ----------- | ----------- |
+| Generated with a program | A language used to interact with database programs |
+| Access to the data you input | Can pull information from different sources in the database |
+| Stored locally | Stored across a database |
+| Small datasets | Larger datasets |
+| Working independently | Tracks changes across teams |
+| Built-in functionalities | Used across multiple programs | 
+
 
 
