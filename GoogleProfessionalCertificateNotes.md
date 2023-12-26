@@ -139,5 +139,8 @@ A function that searches for a certain value in a column to return a correspondi
 A data summarization tool that is used in data processing
 
 
+# Data mapping
+The process of matching fields from one data source to another
+
 
 
