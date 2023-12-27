@@ -231,7 +231,7 @@ A file containing a chronologically ordered list of modification made to a proje
 
 - Segurança: mitigação de vulnerabilidades
 
-# Example of changelog:
+# Example of changelog (in markdown):
 
 # Changelog
 This file contains the notable changes to the project
@@ -248,3 +248,17 @@ Version 1.0.0 (02-23-2019)
 ## Fixes
     - Fixed misalignment in Column "TotalCost" where some rows did not match with correct dates
     - Fixed SUM to run over entire column instead of partial
+
+
+# Common data errors
+- Human error in data entry
+- Flawed processes
+- System issues
+
+# Functions to a fast data cleaning:
+| Function | Sintaxe (Google sheets) | Microsoft Excel | Main use |
+| ----------- | ----------- | ----------- | ----------- |
+| IMPORTRANGE | =IMPORTRANGE(spreadsheet_url, range_string) | Colar link (copiar os dados primeiro) | Importa (cola) dados de uma planilha para outra e os mantém atualizados automaticamente| 
+| QUERY | Sintaxe: =QUERY(Planilha e Intervalo, "Select *") | Dados > De outras fontes > Da consulta Microsoft | Permite que instruções falsas do SQL (do tipo SQL) ou um assistente importem os dados | 
+| FILTER | =FILTER(intervalo, condição1 [condição2, ...]) | Filtrar(condições por coluna) | Exibe somente os dados que atendem às condições especificadas |
+
