@@ -210,3 +210,9 @@ A file containing a chronologically ordered list of modification made to a proje
 
 - Lógica nos negócios. Com base em seu conhecimento nos negócios, você verificou se os dados são coerentes? 
 
+
+# How to access version control in different tools:
+
+| Planilhas Google | Microsoft Excel | BigQuery | 
+| ----------- | ----------- | ----------- |
+| 1. Clique com o botão direito na célula e selecione "Exibir histórico de edição". 2. Clique nas setas para a esquerda (<) ou direita (>) para ir para frente ou para trás no histórico, conforme necessário | 1. Se o recurso de Controlar Alterações estiver habilitado na planilha: clique em "Revisão". 2. Em Controlar alterações, clique na opção "Aceitar/Rejeitar alterações" para aceitar ou rejeitar as mudanças feitas | Abra uma versão anterior (sem voltar para ela) e compare-a à versão atual para ver o que mudou |
