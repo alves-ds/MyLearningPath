@@ -167,3 +167,46 @@ Manipular dados de string com TRIM(), SUBSTR, e LENGTH.
 Criar/eliminar tabelas com CREATE TABLE e DROP TABLE.
 
 Alterar os tipos de dados com CAST.
+
+
+# Verification
+A process to confirm that a data-cleaning effort was well-executed and the resulting data is accurate and reliable. 
+
+# Changelog 
+A file containing a chronologically ordered list of modification made to a project
+
+
+# See the big picture when verifying data-cleaning
+1 Consider the business problem
+
+2 Consider the goal
+
+3 Consider the data
+
+
+# Identificar problemas mais comuns e corrijí-los:
+
+- Origem dos erros. Você usou as ferramentas e funções certas para encontrar a origem dos erros no seu conjunto de dados?
+
+- Dados nulos. Você procurou por NULOS com filtros e formatação condicional?
+
+- Palavras digitadas incorretamente. Você localizou todas as palavras com erro de digitação?
+
+- Números digitados incorretamente. Você verificou se os dados numéricos foram digitados corretamente?
+
+- Caracteres e espaços extras. Você excluiu os caracteres ou espaços extras com a função TRIM?
+
+- Duplicatas. Você excluiu as duplicatas nas planilhas ou SQL com as funções Remove duplicates ou DISTINCT, respectivamente?
+
+- Tipos de dados incompatíveis. Você verificou se os dados numéricos, de datas e strings foram convertidos corretamente?
+
+- Strings desorganizadas (inconsistentes). Você verificou se todas as strings são consistentes e pertinentes?
+
+- Formatos de dados desorganizados (inconsistentes). Você formatou as datas de forma consistente no conjunto de dados?
+
+- Identificações (colunas) variáveis incorretas. Você nomeou suas colunas de forma adequada?
+
+- Dados truncados. Você verificou se há dados ausentes ou truncados que exigem correção?
+
+- Lógica nos negócios. Com base em seu conhecimento nos negócios, você verificou se os dados são coerentes? 
+
