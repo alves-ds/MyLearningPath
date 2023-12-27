@@ -216,3 +216,35 @@ A file containing a chronologically ordered list of modification made to a proje
 | Planilhas Google | Microsoft Excel | BigQuery | 
 | ----------- | ----------- | ----------- |
 | 1. Clique com o botão direito na célula e selecione "Exibir histórico de edição". 2. Clique nas setas para a esquerda (<) ou direita (>) para ir para frente ou para trás no histórico, conforme necessário | 1. Se o recurso de Controlar Alterações estiver habilitado na planilha: clique em "Revisão". 2. Em Controlar alterações, clique na opção "Aceitar/Rejeitar alterações" para aceitar ou rejeitar as mudanças feitas | Abra uma versão anterior (sem voltar para ela) e compare-a à versão atual para ver o que mudou |
+
+# Todas as mudanças de cada categoria devem ser agrupadas juntas. Os tipos de alterações se classificam, normalmente, em uma das categorias abaixo:
+
+- Adicionado: novos recursos incorporados
+
+- Alterado: mudanças na funcionalidade já existente
+
+- Obsoleto: recursos prestes a serem removidos
+
+- Removido: recursos que foram removidos
+
+- Corrigido: correções de erros
+
+- Segurança: mitigação de vulnerabilidades
+
+# Example of changelog:
+
+# Changelog
+This file contains the notable changes to the project
+
+Version 1.0.0 (02-23-2019)
+## New
+    - Added column classifiers (Date, Time, PerUnitCost, TotalCost, etc. )
+    - Added Column “AveCost” to track average item cost
+
+## Changes 
+    - Changed date format to MM-DD-YYYY
+    - Removal of whitespace (cosmetic)
+
+## Fixes
+    - Fixed misalignment in Column "TotalCost" where some rows did not match with correct dates
+    - Fixed SUM to run over entire column instead of partial
