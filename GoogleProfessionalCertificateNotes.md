@@ -262,3 +262,9 @@ Version 1.0.0 (02-23-2019)
 | QUERY | Sintaxe: =QUERY(Planilha e Intervalo, "Select *") | Dados > De outras fontes > Da consulta Microsoft | Permite que instruções falsas do SQL (do tipo SQL) ou um assistente importem os dados | 
 | FILTER | =FILTER(intervalo, condição1 [condição2, ...]) | Filtrar(condições por coluna) | Exibe somente os dados que atendem às condições especificadas |
 
+
+# Phases of analysis 
+1 Organize data
+2 Format and adjust data
+3 Get input from others
+4 Transform data
