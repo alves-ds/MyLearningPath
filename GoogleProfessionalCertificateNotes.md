@@ -291,3 +291,9 @@ A query within another query
 
 # Join
 A SQL clause that is used to combine rows from two or more tables based on a related column
+
+# Types of Join:
+- Inner = returns records with matching values in both tables
+- Left = return all the records from the left table and only the matching records from the right table
+- Right = return all records from the right table and only the matching records from the left
+- Full outer = combines right and left join to return all matching records in both tables
