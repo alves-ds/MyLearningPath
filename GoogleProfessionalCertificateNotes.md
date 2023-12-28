@@ -297,3 +297,7 @@ A SQL clause that is used to combine rows from two or more tables based on a rel
 - Left = return all the records from the left table and only the matching records from the right table
 - Right = return all records from the right table and only the matching records from the left
 - Full outer = combines right and left join to return all matching records in both tables
+
+
+
+![Join types](join_types.png)
