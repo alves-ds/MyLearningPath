@@ -280,3 +280,14 @@ Version 1.0.0 (02-23-2019)
 
 [Regras de conversão em SQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/conversion_rules)
 
+
+# Data aggregation
+The process of gathering data from multiple sourcer in order to combine it into a single summarized collection
+
+
+# Subquery
+A query within another query
+
+
+# Join
+A SQL clause that is used to combine rows from two or more tables based on a related column
