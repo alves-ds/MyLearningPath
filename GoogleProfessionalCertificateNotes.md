@@ -301,3 +301,9 @@ A SQL clause that is used to combine rows from two or more tables based on a rel
 
 
 ![Join types](join_types.png)
+
+
+# Aliasing
+When you temporarily name a table or column in your query to make it easier to read and write. 
+
+
