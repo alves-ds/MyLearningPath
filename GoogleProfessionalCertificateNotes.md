@@ -265,9 +265,13 @@ Version 1.0.0 (02-23-2019)
 
 # Phases of analysis 
 1 Organize data
+
 2 Format and adjust data
+
 3 Get input from others
+
 4 Transform data
+
 
 # Data validation options:
 - Add dropdown lists with predetermined options
