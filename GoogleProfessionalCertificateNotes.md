@@ -309,3 +309,16 @@ A SQL clause that is used to combine rows from two or more tables based on a rel
 When you temporarily name a table or column in your query to make it easier to read and write. 
 
 
+# Data validation process
+Checking and rechecking the quality of your data so that it is complete, accurate, secure and consistent. 
+
+# Tipos de validação de dados:
+
+| Tipo | Propósito | Exemplo | Limitações |
+| ----------- | ----------- | ----------- | ----------- |
+| Tipo de dado | Verificar se os dados correspondem ao tipo de dados definido para um campo | Os valores de dados para as séries escolares de 1 a 12 devem ser um tipo de dados numérico | O valor de dados 13 passaria na validação do tipo de dados, mas seria um valor inaceitável. Para este caso, a validação do intervalo de dados também é necessária| 
+| Intervalo de dados | Verificar se os dados estão dentro de um intervalo aceitável de valores definidos para o campo | Os valores dos dados para as séries escolares devem ser valores entre 1 e 12 | O valor de dados 11,5 estaria no intervalo de dados e também passaria como um tipo de dados numérico. Mas, seria inaceitável porque não há meias séries. Para este caso, a validação da restrição de dados também é necessária | 
+| Restrições de dados | Verificar se os dados atendem a determinadas condições ou critérios para um campo. Isso inclui o tipo de dados inseridos, bem como outros atributos do campo, como número de caracteres | Restrição de conteúdo: Os valores de dados para as séries escolares de 1 a 12 devem ser números inteiros | O valor de dados 13 é um número inteiro e passaria na validação de restrição de conteúdo. Mas seria inaceitável, já que 13 não é uma série escolar reconhecida. Para este caso, a validação do intervalo de dados também é necessária |
+| Consistência de dados | Verificar se os dados fazem sentido no contexto de outros dados relacionados | Os valores de dados para as datas de envio do produto não podem ser anteriores às datas de produção do produto | Os dados podem ser consistentes, mas ainda incorretos ou imprecisos. Uma data de envio pode ser posterior a uma data de produção e ainda estar errada |
+| Estrutura de dados | Verificar se os dados seguem ou estão em conformidade com uma estrutura definida | As páginas da web devem seguir uma estrutura prescrita para serem exibidas corretamente | Uma estrutura de dados pode estar correta com os dados ainda incorretos ou imprecisos. O conteúdo de uma página da web pode ser exibido corretamente e ainda conter as informações erradas |
+| Validação de código | Verificar se o código do aplicativo executa sistematicamente qualquer uma das validações mencionadas anteriormente durante a entrada de dados do usuário | Problemas comuns descobertos durante a validação de código incluem: mais de um tipo de dados permitido, verificação de intervalo de dados não feita ou final de strings de texto mal definido | A validação de código pode não validar todas as variações possíveis com entrada de dados |
