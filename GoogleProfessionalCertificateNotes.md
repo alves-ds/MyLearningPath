@@ -322,3 +322,8 @@ Checking and rechecking the quality of your data so that it is complete, accurat
 | Consistência de dados | Verificar se os dados fazem sentido no contexto de outros dados relacionados | Os valores de dados para as datas de envio do produto não podem ser anteriores às datas de produção do produto | Os dados podem ser consistentes, mas ainda incorretos ou imprecisos. Uma data de envio pode ser posterior a uma data de produção e ainda estar errada |
 | Estrutura de dados | Verificar se os dados seguem ou estão em conformidade com uma estrutura definida | As páginas da web devem seguir uma estrutura prescrita para serem exibidas corretamente | Uma estrutura de dados pode estar correta com os dados ainda incorretos ou imprecisos. O conteúdo de uma página da web pode ser exibido corretamente e ainda conter as informações erradas |
 | Validação de código | Verificar se o código do aplicativo executa sistematicamente qualquer uma das validações mencionadas anteriormente durante a entrada de dados do usuário | Problemas comuns descobertos durante a validação de código incluem: mais de um tipo de dados permitido, verificação de intervalo de dados não feita ou final de strings de texto mal definido | A validação de código pode não validar todas as variações possíveis com entrada de dados |
+
+
+# Temporary table
+A database table that is created and exists temporarily on a database server
+
