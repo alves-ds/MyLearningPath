@@ -363,15 +363,15 @@ A business intelligence and analytics platform that helps people see, understand
 
 
 # Five phases of the design process:
-1 Empathize
+1 Empathize - pensar nas emoções e necessidades do público-alvo para a visualização de dados 
 
-2 Define
+2 Define - descobrir exatamente o que seu público precisa a partir dos dados
 
-3 Ideate
+3 Ideate - gerar ideias para visualização de dados
 
-4 Prototype
+4 Prototype - reunir visualizações para teste e feedback
 
-5 Test
+5 Test - amostra de protótipos de visualizações para que as pessoas vejam antes das partes interessadas
 
 
 Design Thinking é um processo usado para resolver problemas complexos de uma forma centrada no usuário. O foco no usuário significa considerar o usuário e suas necessidades em primeiro lugar.
