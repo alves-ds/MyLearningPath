@@ -333,8 +333,11 @@ The graphic representation and presentation of data
 
 # Four key elements of data visualization (David McCandless method):
 1 Information (data)
+
 2 history (concept)
+
 3 Goal (function)
+
 4 Visual form (metaphor)
 
 
@@ -350,3 +353,25 @@ The graphic representation and presentation of data
 - Popout: o quanto é fácil distinguir certos valores de outros?
 - Agrupamento: o quanto um canal é bom na comunicação de grupos que existem nos dados?
 
+
+# Dynamic visualizations
+Visualizations that are interactive or change over time. 
+
+
+# Tableau
+A business intelligence and analytics platform that helps people see, understand, and make decisions with data. 
+
+
+# Five phases of the design process:
+1 Empathize
+
+2 Define
+
+3 Ideate
+
+4 Prototype
+
+5 Test
+
+
+Design Thinking é um processo usado para resolver problemas complexos de uma forma centrada no usuário. O foco no usuário significa considerar o usuário e suas necessidades em primeiro lugar.
