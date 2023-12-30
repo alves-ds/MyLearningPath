@@ -327,3 +327,26 @@ Checking and rechecking the quality of your data so that it is complete, accurat
 # Temporary table
 A database table that is created and exists temporarily on a database server
 
+
+# Data visualization
+The graphic representation and presentation of data
+
+# Four key elements of data visualization (David McCandless method):
+1 Information (data)
+2 history (concept)
+3 Goal (function)
+4 Visual form (metaphor)
+
+
+# Atributos pré-atencionais: 
+## Marcas: As marcas são objetos visuais básicos como pontos, linhas e formas. Cada marca pode ser dividida em quatro qualidades
+- Posição: onde uma marca específica está no espaço em relação a uma escala ou outras marcas
+- Tamanho: o quanto uma marca é grande, pequena, longa ou alta
+- Forma: se um objeto específico recebe uma forma que comunica algo sobre ele
+- Cor: qual é a cor da marca
+
+## Canais: Os canais são aspectos visuais ou variáveis que representam características dos dados. Os canais são basicamente marcas que foram usadas para visualizar dados. Os canais variam em termos de eficácia na comunicação de dados com base em três elementos
+- Precisão: os canais são úteis para estimar com precisão os valores representados?
+- Popout: o quanto é fácil distinguir certos valores de outros?
+- Agrupamento: o quanto um canal é bom na comunicação de grupos que existem nos dados?
+
