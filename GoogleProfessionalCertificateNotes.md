@@ -375,3 +375,8 @@ A business intelligence and analytics platform that helps people see, understand
 
 
 Design Thinking é um processo usado para resolver problemas complexos de uma forma centrada no usuário. O foco no usuário significa considerar o usuário e suas necessidades em primeiro lugar.
+
+# My first data visualization with tableau:
+https://prod-useast-b.online.tableau.com/#/site/alvesds/views/learning_to_use_tableau_co2_data/Sheet1?:iid=4
+
+
