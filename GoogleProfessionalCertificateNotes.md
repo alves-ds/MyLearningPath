@@ -429,3 +429,12 @@ Sem a habilidade para interpretar os dados, você pode perder o controle da narr
 
 Pode causar potencialmente uma falta de confiança se os dados não são tratados adequadamente.
 
+
+# Components of a storytelling with data
+- Characters
+- Setting
+- Plot
+- Big reveal
+- Aha moment
+
+
