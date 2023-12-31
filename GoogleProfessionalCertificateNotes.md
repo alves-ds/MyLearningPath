@@ -392,3 +392,40 @@ https://prod-useast-b.online.tableau.com/#/site/alvesds/views/learning_to_use_ta
 Scanning through data to quickly identify the most important insights
 
 
+
+# Dados estáticos envolvem fornecer capturas de tela ou instantâneos nas apresentações, ou construir painéis usando instantâneos de dados. Há prós e contras no uso de dados estáticos.
+
+## PRÓS
+
+Se pode controlar com firmeza um ponto no tempo da narrativa dos dados e no insight.
+
+Permite que análises complexas sejam explicadas em profundidade para um público-alvo maior.
+
+## CONTRAS
+
+O insight começa a perder valor imediatamente e assim continua pelo tempo em que o dado permanecer em um estado estático.
+
+Instantâneos não conseguem acompanhar o ritmo da mudança nos dados.
+
+# Dados dinâmicos são aqueles com os quais você pode construir painéis, relatórios e exibições conectados a dados atualizados de forma automática. 
+
+## PRÓS
+
+Os painéis podem ser construídos para serem mais dinâmicos e escaláveis.
+
+Fornecem os dados mais atualizados para as pessoas que precisam deles no momento em que elas precisam.
+
+Permite exibições de dados atualizados, com a possibilidade de construir “uma fonte única da verdade” para uso em vários casos.
+
+Permite que ações imediatas sejam tomadas nos dados que mudam com frequência.
+
+Minimiza tempo/recursos gastos nos processos para cada análise.
+
+## CONTRAS
+
+Podem ser necessários recursos de engenharia para manter os pipelines ativos e escaláveis, o que pode estar fora do escopo da alocação de recursos de dados em algumas empresas.
+
+Sem a habilidade para interpretar os dados, você pode perder o controle da narrativa, o que pode causar um caos de dados (por exemplo, equipes chegando a conclusões conflitantes baseadas nos mesmos dados).
+
+Pode causar potencialmente uma falta de confiança se os dados não são tratados adequadamente.
+
