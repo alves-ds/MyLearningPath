@@ -380,3 +380,15 @@ Design Thinking é um processo usado para resolver problemas complexos de uma fo
 https://prod-useast-b.online.tableau.com/#/site/alvesds/views/learning_to_use_tableau_co2_data/Sheet1?:iid=4
 
 
+# 3 data storytelling steps
+1 Engage your audience 
+
+2 Create compelling visuals
+
+3 Tell the story in an interesting narrative
+
+
+# Spotlighting
+Scanning through data to quickly identify the most important insights
+
+
