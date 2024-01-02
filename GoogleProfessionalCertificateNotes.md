@@ -449,3 +449,16 @@ Pode causar potencialmente uma falta de confiança se os dados não são tratado
 
 5 Tell your audience why it matters
 
+# Types of questions that stakeholders can do:
+- Where you got the data?
+- What systems it came from?
+- What transformations happened to it?
+- How fresh and accurate is the data?
+- Is your analysis reproducible?
+- Who did you get feedback from?
+- Do these findings exist in previous time periods?
+- Did you control for the differences in your data?
+
+
+
+
