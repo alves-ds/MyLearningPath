@@ -490,4 +490,15 @@ A system of packages in R with a common design philosophy for data manipulation,
 A tool in R for expressing a sequence of multiple operations, represented with "%>%"
 
 
+# Data frames
+A collection of columns 
+
+
+# Tibbles
+- Never change the data types of the inputs
+- Never change the names of your variables
+- Never create row names
+- Make printing easier
+
+
 
