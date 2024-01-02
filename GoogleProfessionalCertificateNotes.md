@@ -479,5 +479,11 @@ A system of packages in R with a common design philosophy for data manipulation,
 - forcats
 
 
+# 4 packages that are an essential part of the workflow for data analysts:
+- ggplot2 (plots)
+- dplyr (data manipulation)
+- tidyr (data cleaning to make tidy data)
+- readr (import data)
+
 
 
