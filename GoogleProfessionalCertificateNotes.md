@@ -464,4 +464,20 @@ Pode causar potencialmente uma falta de confiança se os dados não são tratado
 Writing instructions to the computer in the syntax of a specific programming language. 
 
 
+# Tidyverse (R):
+A system of packages in R with a common design philosophy for data manipulation, exploration, and visualization. 
+
+
+# 8 core tidyverse packages:
+- ggplot2
+- tibble
+- tidyr
+- readr
+- purrr
+- dplyr
+- stringr
+- forcats
+
+
+
 
