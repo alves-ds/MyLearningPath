@@ -486,4 +486,8 @@ A system of packages in R with a common design philosophy for data manipulation,
 - readr (import data)
 
 
+# Pipe (R):
+A tool in R for expressing a sequence of multiple operations, represented with "%>%"
+
+
 
