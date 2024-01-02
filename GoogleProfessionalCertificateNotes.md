@@ -438,3 +438,14 @@ Pode causar potencialmente uma falta de confiança se os dados não são tratado
 - Aha moment
 
 
+# The McCandless method for data presentation
+1 Introduce the graphic by name
+
+2 Answer obvious questions before they're asked
+
+3 State the insight of your graphic
+
+4 Call out the data to support that insight
+
+5 Tell your audience why it matters
+
