@@ -501,4 +501,10 @@ A collection of columns
 - Make printing easier
 
 
+# Tidy data standards
+- Variables are organized into columns
+- Observations are organized into rows
+- Each value must have its own cell
+
+
 
