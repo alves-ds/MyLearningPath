@@ -460,5 +460,8 @@ Pode causar potencialmente uma falta de confiança se os dados não são tratado
 - Did you control for the differences in your data?
 
 
+# Coding:
+Writing instructions to the computer in the syntax of a specific programming language. 
+
 
 
