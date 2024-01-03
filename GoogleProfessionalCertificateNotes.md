@@ -545,4 +545,7 @@ Lets users run your code and show the graphs and charts that visualize the code
 - Google colab
 
 
+# Code chunk
+Code added in an .Rmd file
+
 
