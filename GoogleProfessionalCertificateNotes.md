@@ -527,5 +527,16 @@ Let you customize your plot
 3 Map the variables you want to plot in the arguments of the aes() function
 
 
+# R Markdown
+A file format for making dynamic documents with R
+
+
+# Markdown
+A syntax for formatting plain text files
+
+
+# R Notebook
+Lets users run your code and show the graphs and charts that visualize the code
+
 
 
