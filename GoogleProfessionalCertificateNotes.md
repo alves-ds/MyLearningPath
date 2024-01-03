@@ -506,5 +506,19 @@ A collection of columns
 - Observations are organized into rows
 - Each value must have its own cell
 
+# In ggplot, aesthetic:
+A visual property of an object in your plot
+
+# Geom (R):
+The geomtric object used to represent your data
+
+# Facets (R):
+Let you display smaller groups, or subsets, of your data
+
+# Labels and annotations (R):
+Let you customize your plot
+
+
+
 
 
