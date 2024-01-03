@@ -539,4 +539,10 @@ A syntax for formatting plain text files
 Lets users run your code and show the graphs and charts that visualize the code
 
 
+# Other notebook options
+- Jupyter
+- Kaggle
+- Google colab
+
+
 
