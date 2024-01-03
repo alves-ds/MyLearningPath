@@ -549,3 +549,17 @@ Lets users run your code and show the graphs and charts that visualize the code
 Code added in an .Rmd file
 
 
+# Types of outputs to markdown documents:
+- pdf_document – Cria um arquivo PDF com LaTeX (um sistema de layout de documentos de código aberto). Se você ainda não possui LaTeX, RStudio solicitará a instalação automaticamente.
+
+- word_document – Cria um documento do Microsoft Word (.docx).
+
+- odt_document – Cria um documento de texto OpenDocument (.odt).
+
+- rtf_document – Cria um documento Rich Text Format (.rtf).
+
+- md_document – Cria um documento Markdown (que está estritamente em conformidade com a especificação Markdown original)
+
+- github_document – Cria um documento GitHub que é uma versão personalizada de um documento Markdown projetado para compartilhamento no GitHub.
+
+
