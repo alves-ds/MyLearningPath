@@ -564,3 +564,12 @@ Code added in an .Rmd file
 
 - github_document – Cria um documento GitHub que é uma versão personalizada de um documento Markdown projetado para compartilhamento no GitHub.
 
+- beamer_presentation – para apresentações em PDF com beamer
+
+- ioslides_presentation – para apresentações HTML com ioslides
+
+- slidy_presentation – para apresentações HTML com Slidy
+
+- powerpoint_presentation – para apresentações em PowerPoint
+
+- revealjs : : revealjs_presentation – para apresentações HTML com reveal.js (framework para criação de apresentações HTML que requer o pacote reveal.js)
