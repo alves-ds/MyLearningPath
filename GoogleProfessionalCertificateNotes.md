@@ -519,6 +519,13 @@ Let you display smaller groups, or subsets, of your data
 Let you customize your plot
 
 
+# Steps to build graphs with ggplot2:
+1 Start with the ggplot function and choose a dataset to work with
+
+2 Add a geom_ function to display your data
+
+3 Map the variables you want to plot in the arguments of the aes() function
+
 
 
 
