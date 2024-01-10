@@ -40,3 +40,9 @@ Você paga apenas pelos serviços de nuvem que usa, o que ajuda a:
 
 
 ![Serviços em nuvem](https://tecnomega.com.br/wp-content/uploads/image-hierarquia-iaas-paas-saas.png)
+
+
+# Computação sem servidor
+O nome "sem servidor" é proveniente do fato de que as tarefas associadas ao provisionamento e ao gerenciamento de infraestrutura são invisíveis para o desenvolvedor. 
+
+
