@@ -51,3 +51,6 @@ O nome "sem servidor" é proveniente do fato de que as tarefas associadas ao pro
 - Nuvem privada - usados exclusivamente pelos usuários de uma empresa ou organização (pode estar fisicamente no datacenter local da organização)
 - Nuvem híbrica - combina nuvem pública e privada, permitindo que dados e aplicativos sejam compartilhados entre elas
 
+# O que é o Azure?
+Conjunto de serviços de nuvem
+
