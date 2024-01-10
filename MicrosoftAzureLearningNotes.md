@@ -33,7 +33,8 @@ Você paga apenas pelos serviços de nuvem que usa, o que ajuda a:
 - Distribuição geográfica
 - Recuperação de desastre
 
-# IaaS (infraestrutura como serviço)
-# PaaS (plataforma como serviço)
-# SaaS (software como serviço)
+# Modelos de serviço em nuvem
+## IaaS (infraestrutura como serviço)
+## PaaS (plataforma como serviço)
+## SaaS (software como serviço)
 
