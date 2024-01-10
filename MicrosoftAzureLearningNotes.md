@@ -46,3 +46,8 @@ Você paga apenas pelos serviços de nuvem que usa, o que ajuda a:
 O nome "sem servidor" é proveniente do fato de que as tarefas associadas ao provisionamento e ao gerenciamento de infraestrutura são invisíveis para o desenvolvedor. 
 
 
+# Modelos de implantação para a computação em nuvem
+- Nuvem pública - serviços oferecidos pela internet pública e ficam disponíveis para qualquer pessoa que deseje comprá-los
+- Nuvem privada - usados exclusivamente pelos usuários de uma empresa ou organização (pode estar fisicamente no datacenter local da organização)
+- Nuvem híbrica - combina nuvem pública e privada, permitindo que dados e aplicativos sejam compartilhados entre elas
+
