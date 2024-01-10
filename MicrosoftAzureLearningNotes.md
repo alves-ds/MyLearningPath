@@ -15,3 +15,9 @@
 - Análises e inteligência
 
 
+# Por que a computação em nuvem é mais barata?
+Você paga apenas pelos serviços de nuvem que usa, o que ajuda a:
+- Reduzir os custos operacionais
+- Executar a infraestrutura com mais eficiência
+- Escalar as operações de acordo com as necessidades de negócios
+
