@@ -38,3 +38,5 @@ Você paga apenas pelos serviços de nuvem que usa, o que ajuda a:
 ## PaaS (plataforma como serviço)
 ## SaaS (software como serviço)
 
+
+![Serviços em nuvem](https://tecnomega.com.br/wp-content/uploads/image-hierarquia-iaas-paas-saas.png)
