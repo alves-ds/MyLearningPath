@@ -59,3 +59,20 @@ Conjunto de serviços de nuvem
 - Um crédito a ser gasto nos primeiros 30 dias
 - Acesso a mais de 25 produtos que são sempre gratuitos
 
+
+# Governança:
+O processo geral de estabelecer regras e políticas e garantir que elas sejam impostas. 
+
+
+# Etapas do Cloud adoption framework para Azure:
+1 Definir sua estratégia
+
+2 Criar um plano
+
+3 Preparar sua organização
+
+4 Adotar a nuvem
+
+5 Controlar e gerenciar seus ambientes de nuvem
+
+
