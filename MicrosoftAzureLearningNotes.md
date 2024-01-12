@@ -65,14 +65,43 @@ O processo geral de estabelecer regras e políticas e garantir que elas sejam im
 
 
 # Etapas do Cloud adoption framework para Azure:
-1 Definir sua estratégia
+1 Definir sua estratégia - Explicar por que está migrando para a nuvem e indicará o que deseja obter com a migração
+  - Definir e documentar suas motivações
+  - Documentar os resultados dos negócios
+  - Desenvolver um caso de negócios - confirme se a migração para a nuvem oferece o retorno sobre o investimento (ROI) ideal para seus esforços
+  - Escolher o primeiro projeto ideial
 
 2 Criar um plano
-
+  - Propriedade digital - criar um inventário dos ativos digitais e das cargas de trabalho existentes que se pretende migrar para a nuvem
+  - Alinhamento organizacional inicial
+  - Plano de preparação de habilidades
+  - Plano de adoção da nuvem
+    
 3 Preparar sua organização
+  - Guia de configuração do Azure
+  - Zona de destino do Azure
+  - Expandir a zona de destino
+  - Melhores práticas
 
 4 Adotar a nuvem
+  - Migrar sua primeira carga de trabalho
+  - Cenários de migração
+  - Melhores práticas
+  - Aprimoramento de processo
+  - Consenso do valor comercial
+  - Guia de inovação do Azure
+  - Melhores práticas
+  - Loops de comentários
 
 5 Controlar e gerenciar seus ambientes de nuvem
+  - Metodologia
+  - Parâmetro de comparação
+  - Base de governança inicial
+  - Aprimorar a base de governança inicial
+  - Estabelecer uma linha de base de gerenciamento
+  - Definir compromissos empresariais
+  - Expandir a linha de base de gerenciamento
+  - Operações avançadas e princípios de design
+
 
 
