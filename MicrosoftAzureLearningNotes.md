@@ -54,3 +54,8 @@ O nome "sem servidor" é proveniente do fato de que as tarefas associadas ao pro
 # O que é o Azure?
 Conjunto de serviços de nuvem
 
+# O que inclui a conta gratuita do Azure?
+- Acesso gratuito a produtos populares do Azure por 12 meses
+- Um crédito a ser gasto nos primeiros 30 dias
+- Acesso a mais de 25 produtos que são sempre gratuitos
+
